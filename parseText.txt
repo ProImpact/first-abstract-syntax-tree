@@ -1,0 +1,17 @@
+{
+    "Odinn"
+    {
+        "Emiliano"
+        "Atenea"
+        "Mixra"
+        {
+            "Axtrox"
+            "Loky"
+            {
+                "Zeus"
+                "Hulk"
+            }
+        }
+    }
+    "Zeus"
+}
