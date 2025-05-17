@@ -1,7 +1,7 @@
 # My first Abstract Syntax Tree (AST)
 
 
-## Hi !!, this is a simple (ast) with a recursive-descent expression compilation for parse my family generation it's just an excercie in my jurnery for learn how compilers works and make my own some day. 
+## Hi !!, this is a simple (ast) with a recursive-descent expression compilation for parse my family generation it's just an excercie in my jurney for learn how compilers works and make my own some day. 
 
 
 ### How it's works
