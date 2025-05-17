@@ -6,7 +6,7 @@
 
 ### How it's works
 
-The scructure is like a ```json``` but you can add multiple names the first level it's the first generation
+The structure is like a ```json``` but you can add multiple names the first level it's the first generation
 
 #### Ex:
 ```json
